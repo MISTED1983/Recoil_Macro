@@ -3,7 +3,6 @@
 A simple software that makes your mouse move in one direction by chosen X/Y values and speed.
 can be used as recoil macro.
 
-Control mouse X/Y-Axis using Win32 Mouse_Event.
 Enjoy
 
 SCREENSHOT:
