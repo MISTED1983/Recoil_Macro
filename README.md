@@ -1,4 +1,4 @@
-# MouseEvent_Control
+# jjh
 A simple software that can be used as recoil macro.
 
 Control mouse X/Y-Axis using Win32 Mouse_Event.
