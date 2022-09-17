@@ -1,0 +1,9 @@
+S:\Visual Studio Projects\GH_MOUSE_CONTROL\GH_MOUSE_CONTROL\bin\Debug\GH_MOUSE_CONTROL.exe.config
+S:\Visual Studio Projects\GH_MOUSE_CONTROL\GH_MOUSE_CONTROL\bin\Debug\GH_MOUSE_CONTROL.exe
+S:\Visual Studio Projects\GH_MOUSE_CONTROL\GH_MOUSE_CONTROL\bin\Debug\GH_MOUSE_CONTROL.pdb
+S:\Visual Studio Projects\GH_MOUSE_CONTROL\GH_MOUSE_CONTROL\obj\Debug\GH_MOUSE_CONTROL.Form1.resources
+S:\Visual Studio Projects\GH_MOUSE_CONTROL\GH_MOUSE_CONTROL\obj\Debug\GH_MOUSE_CONTROL.Properties.Resources.resources
+S:\Visual Studio Projects\GH_MOUSE_CONTROL\GH_MOUSE_CONTROL\obj\Debug\GH_MOUSE_CONTROL.csproj.GenerateResource.cache
+S:\Visual Studio Projects\GH_MOUSE_CONTROL\GH_MOUSE_CONTROL\obj\Debug\GH_MOUSE_CONTROL.csproj.CoreCompileInputs.cache
+S:\Visual Studio Projects\GH_MOUSE_CONTROL\GH_MOUSE_CONTROL\obj\Debug\GH_MOUSE_CONTROL.exe
+S:\Visual Studio Projects\GH_MOUSE_CONTROL\GH_MOUSE_CONTROL\obj\Debug\GH_MOUSE_CONTROL.pdb
