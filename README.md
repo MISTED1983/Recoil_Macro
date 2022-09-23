@@ -1,6 +1,6 @@
 # Recoil macro
 
-A simple software that makes your mouse move in one direction by chosen X/Y values and speed.
+A simple software that makes your mouse move in one direction.
 can be used as recoil macro.
 
 
